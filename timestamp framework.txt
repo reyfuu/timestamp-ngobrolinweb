@@ -1,0 +1,21 @@
+- 00:00 intro
+- 2:48 kenalan dengan mas irvan 
+- 15:38 Alasan Angular dibenci
+- 20:25 Tips kerja dengan team
+- 32:45 Syarat untuk Rewrite
+= 35:32 Migration
+- 49:00 kelebihan nuxt js
+- 56:09 Kenapa dokumentasi menjadi penting
+- 59:02 kelebihan dan kekurangan svelte kit
+- 1:04:31 javascript vs typescript
+- 1:12:19 kenapa next js populer
+- 1:16:54 study case rewrite
+- 1:24:46 Kenapa harus belajar javascript dulu sebelum svelte
+- 1:28:00 lanjut bahas 
+- 1:30:00 cara belajar framework
+- 1:38:46 Apa itu Clean Code
+- 1:46:31 pentingnya code review
+- 1:50:00 epilog
+
+kalau ada yang salah monggo bisa dibantu betulin
+
