@@ -1,0 +1,14 @@
+- 00:00 intro
+- 09:00 apa itu linter ?
+- 16:00 gunanya static code analysis
+- 20:00 eslint dkk
+- 43:00 case study masalah di linter
+- 58:00 rules favorite di eslint
+- 1:06:00 tips & trick pakai linter
+
+note 
+eslint import resolver untuk salah satu masalah di linter
+eslint.org/play/ untuk testing eslint 
+
+kalau ada yang salah monggo bisa dibantu betulin
+
