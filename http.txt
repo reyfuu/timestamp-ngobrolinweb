@@ -1,1 +1,16 @@
-s
+- 00:00 intro
+- 11:30 mulai http
+- 15:15 kenapa bahas http
+- 17:12 sejarah http
+- 28:40 sponsor lewat
+- 29:16 lanjut sejarah http
+- 56:22 apa itu webrtc
+- 58:38 https
+- 1:11:37 http3
+- 1:13:22 tcp vs udp
+- 1:16:47 lanjut sejarah http3
+
+
+
+kalau ada yang salah monggo bisa dibantu betulin
+
