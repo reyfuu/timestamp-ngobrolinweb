@@ -1,0 +1,14 @@
+- 00:00 intro
+- 07:00 sejarah nodejs
+- 24:00 update nodejs
+- 42:00 express
+- 44:34 Hono
+- 49:07 Masalah di nodejs
+- 58:12 konsep react-server component
+- 1:05:00 inspirasi
+
+note
+js party episode 294
+
+kalau ada yang salah monggo bisa dibantu betulin
+
